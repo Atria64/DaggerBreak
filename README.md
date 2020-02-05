@@ -8,8 +8,8 @@ DaggerBreak(ダガーブレイク)はProcessingで作成されたブロック崩
 著作権などを考慮するために**音周り全てを消しています**。
    
 このため、多少のバグを含んでいる可能性があります。   
-**バグなどを発見された場合はIssueに書き込んでいただけると嬉しいです。**
-   
+**バグなどを発見された場合は[Issue](https://github.com/Atria64/DaggerBreak/issues/new/choose)に書き込んでいただけると嬉しいです。**   
+
 
 
 # images
