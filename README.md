@@ -5,16 +5,13 @@ DaggerBreak(ダガーブレイク)はProcessingで作成されたブロック崩
 なお、このゲームはFUN Processing Award 2019の最優秀作品に選ばれました。   
 Release版は[こちら](https://github.com/Atria64/DaggerBreak/releases)から。
 
+![midiam](https://user-images.githubusercontent.com/49768768/73974963-b6c4d200-4968-11ea-86db-f897c9b10545.gif)
+
 # GitHub版での変更点
 著作権などを考慮するために**音周り全てを消しています**。
    
 このため、多少のバグを含んでいる可能性があります。   
 **バグなどを発見された場合は[Issue](https://github.com/Atria64/DaggerBreak/issues/new/choose)に書き込んでいただけると嬉しいです。**   
-
-
-
-# images
-<img src="https://user-images.githubusercontent.com/49768768/73201783-1eb33580-417d-11ea-8eae-8f4a759a30a7.JPG" width="320px">
 
 # 動作環境
  - Windows10
