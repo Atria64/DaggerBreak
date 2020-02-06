@@ -2,7 +2,8 @@
 DaggerBreak(ダガーブレイク)はProcessingで作成されたブロック崩しゲームです。   
 プレイヤーはダガーの角度を調整し発射することで、目標ブロックの破壊を目指します。
    
-なお、このゲームはFUN Processing Award 2019の最優秀作品に選ばれました。
+なお、このゲームはFUN Processing Award 2019の最優秀作品に選ばれました。   
+Release版は[こちら](https://github.com/Atria64/DaggerBreak/releases)から。
 
 # GitHub版での変更点
 著作権などを考慮するために**音周り全てを消しています**。
